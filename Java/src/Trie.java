@@ -2,7 +2,6 @@
  * Purpose: Basically a Trie implementation
  * (What is a Trie? see https://en.wikipedia.org/wiki/Trie)
  */
-//package src;
 //
 //public class Trie<T> {
 //

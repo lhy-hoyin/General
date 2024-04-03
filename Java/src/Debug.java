@@ -4,7 +4,6 @@
  * WARNING: IF YOU NEED TO SUBMIT THIS CLASS FILE IN THE FINAL COMPILATION,
  *          IS YOUR FINAL PRODUCT REALLY FINAL?
  */
-package src;
 
 public class Debug {
 

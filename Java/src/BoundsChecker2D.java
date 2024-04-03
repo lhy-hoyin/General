@@ -3,7 +3,6 @@
  * Purpose: Quickly check if given index is within bounds of a 2D array
  *          without having to worry about the edge cases when checking manually
  */
-package src;
 
 public class BoundsChecker2D {
     int topCorner, bottomLeft, topRight;

@@ -1,7 +1,6 @@
 /* Author: LHY
  * Purpose: Similar to a generic Pair, but holds 3 parameters instead
  */
-package src;
 
 public class Triple<T, U, V> {
     T first_;

@@ -1,7 +1,6 @@
 /* Author: LHY
  * Created on: 4 Nov 2022
  */
-package src;
 
 public class ComparablePair<T extends Comparable<T>, U extends Comparable<U>>
         extends Pair<T,U>
