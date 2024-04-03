@@ -3,7 +3,7 @@
  */
 package src;
 
-public class Triple<T,U,V> {
+public class Triple<T, U, V> {
     T first_;
     U second_;
     V third_;

@@ -3,7 +3,7 @@
  */
 package src;
 
-public class Pair<T,U> {
+public class Pair<T, U> {
     private T first_;
     private U second_;
 
@@ -18,10 +18,10 @@ public class Pair<T,U> {
     public U second() { return second_; }
     public U right() {return second_; }
 
-    public void first(T first_) { this.first_ = first_; }
+    public void first(T first) { this.first_ = first; }
     public void left(T left) { first_ = left; }
 
-    public void second(U second_) { this.second_ = second_; }
+    public void second(U second) { this.second_ = second; }
     public void right(U right) { second_ = right; }
 
     @Override

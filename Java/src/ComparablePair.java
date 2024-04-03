@@ -3,14 +3,9 @@
  */
 package src;
 
-public class ComparablePair
-        <
-                T extends Comparable<T>,
-                U extends Comparable<U>
-        >
+public class ComparablePair<T extends Comparable<T>, U extends Comparable<U>>
         extends Pair<T,U>
         implements Comparable<ComparablePair<T,U>>
-
 {
     public ComparablePair(T fst, U snd) { super(fst, snd); }
 

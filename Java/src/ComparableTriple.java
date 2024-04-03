@@ -3,12 +3,7 @@
  */
 package src;
 
-public class ComparableTriple
-        <
-                T extends Comparable<T>,
-                U extends Comparable<U>,
-                V extends Comparable<V>
-        >
+public class ComparableTriple<T extends Comparable<T>, U extends Comparable<U>, V extends Comparable<V>>
         extends Triple<T,U,V>
         implements Comparable<ComparableTriple<T,U,V>>
 {
