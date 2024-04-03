@@ -1,6 +1,7 @@
 /* Author: LHY
  * Purpose: A generic Pair to cater to different object types
  */
+package src;
 
 public class Pair<T,U> {
     private T first_;

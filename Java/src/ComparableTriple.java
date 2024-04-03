@@ -1,6 +1,7 @@
 /* Author: LHY
  * Created on: 4 Nov 2022
  */
+package src;
 
 public class ComparableTriple
         <
